@@ -35,7 +35,10 @@ To understand the characteristics of a strong password by creating multiple pass
 | B@gTesTer2026           | 78%       | Strong           |
 | B@g#T30rT!Tester$26    | 100%      | Very Strong      |
 
-📸 **Add screenshots of password strength test results inside the `screenshots/` folder**
+---
+
+📸 **Screenshots**
+
 
 ---
 
