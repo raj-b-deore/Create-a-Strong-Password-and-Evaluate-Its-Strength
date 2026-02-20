@@ -19,10 +19,11 @@ To understand the characteristics of a strong password by creating multiple pass
 
 | Sr No | Password Tested        | Description                              |
 |-------|------------------------|------------------------------------------|
-| 1     | bug123                 | Only lowercase + numbers (weak)          |
-| 2     | bug@1234               | Uppercase + lowercase + symbol           |
-| 3     | B@gTesTer2026           | Mixed characters + length                |
-| 4     | B@g#T30rT!Tester$26    | Long and complex password                |
+| 1     | bugtester              | Only lowercase                           |
+| 2     | bugtester123           | Only lowercase + numbers                 |
+| 3     | Bugtester@123          | Uppercase + lowercase + symbol           |
+| 4     | b%gtester@123          | Mixed characters + length                |
+| 5     | B@g#T30rT!Tester$123   | Long and complex password                |
 
 ---
 
@@ -30,10 +31,11 @@ To understand the characteristics of a strong password by creating multiple pass
 
 | Password               | Score (%) | Complexity Level |
 |------------------------|-----------|------------------|
-| bug123                 | 25%       | Very Weak        |
-| bug@1234              | 55%       | Medium           |
-| B@gTesTer2026           | 78%       | Strong           |
-| B@g#T30rT!Tester$26    | 100%      | Very Strong      |
+| bugtester              | 10%       | Very Weak        |
+| bugtester123           | 46%       | Good             |
+| Bugtester@123          | 94%       | Very Strong      |
+| b%gtester@123          | 88%       |  Strong          |
+| B@g#T30rT!Tester$123   | 100%      | Very Strong      |
 
 ---
 
