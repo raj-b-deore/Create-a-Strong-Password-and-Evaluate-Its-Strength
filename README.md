@@ -41,6 +41,19 @@ To understand the characteristics of a strong password by creating multiple pass
 
 📸 **Screenshots**
 
+### 1.PasswordMeter
+
+<img width="782" height="939" alt="Image" src="https://github.com/user-attachments/assets/51849f10-06a8-4074-b736-10cb9dc0b2ed" />
+
+<img width="780" height="934" alt="Image" src="https://github.com/user-attachments/assets/538bcb26-f5e4-4cd9-8b9a-bca7422e64e3" />
+
+### 2.PasswordMonster
+
+<img width="1456" height="573" alt="Image" src="https://github.com/user-attachments/assets/fa452d6d-8a60-4ea7-a5c4-2abf56a01701" />
+
+<img width="1433" height="748" alt="Image" src="https://github.com/user-attachments/assets/3ad55ac3-b758-411d-832f-ff48b244507f" />
+
+
 
 ---
 
